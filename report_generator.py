@@ -192,7 +192,7 @@ def main(file: str):
 
 if __name__ == "__main__":
     files_to_scan = [
-        r"C:\Users\NathanTafelsky\Downloads\Soil_biology.pdf", # Add the path to file here, full path recommended
+        r"<full filepath here>", # Add the path to file here, full path recommended
     ]
 
     for file in files_to_scan:
